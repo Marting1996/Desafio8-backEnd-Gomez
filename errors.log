@@ -1,0 +1,31 @@
+fatal: GET on / - 13:53:55
+fatal: GET on /favicon.ico - 13:53:55
+fatal: GET on /loggetTest/test - 13:54:08
+fatal: GET on /loggetTest/test - 13:54:30
+fatal: GET on /loggerTest/test - 13:54:57
+fatal: Test de error fatal
+error: Test de error 'error'
+warning: Test de error 'warning'
+info: Test de error 'info'
+info: Solo es un test
+info: Solo es un test
+info: Solo es un test
+info: Solo es un test
+{"level":"info","message":"Solo es un test","timestamp":"2023-10-16T17:08:08.194Z"}
+{"level":"info","message":"Solo es un test"}
+{"level":"info","message":"Solo es un test","timestamp":"2023-10-16T17:09:28.029Z"}
+{"level":"fatal","message":"GET on /loggerTest/test - 16:10:10","timestamp":"2023-10-16T19:10:10.336Z"}
+{"level":"fatal","message":"Test de error fatal","timestamp":"2023-10-16T19:10:10.339Z"}
+{"level":"error","message":"Test de error 'error'","timestamp":"2023-10-16T19:10:10.340Z"}
+{"level":"warning","message":"Test de error 'warning'","timestamp":"2023-10-16T19:10:10.340Z"}
+{"level":"info","message":"Test de error 'info'","timestamp":"2023-10-16T19:10:10.340Z"}
+{"level":"fatal","message":"GET on /loggerTest/test - 16:10:15","timestamp":"2023-10-16T19:10:15.351Z"}
+{"level":"fatal","message":"Test de error fatal","timestamp":"2023-10-16T19:10:15.352Z"}
+{"level":"error","message":"Test de error 'error'","timestamp":"2023-10-16T19:10:15.353Z"}
+{"level":"warning","message":"Test de error 'warning'","timestamp":"2023-10-16T19:10:15.353Z"}
+{"level":"info","message":"Test de error 'info'","timestamp":"2023-10-16T19:10:15.353Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-16T20:31:46.635Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-16T20:32:50.973Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-16T20:33:25.314Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-16T20:34:06.774Z"}
+{"level":"info","message":"Persistence with MONGO","timestamp":"2023-10-16T20:34:31.135Z"}
